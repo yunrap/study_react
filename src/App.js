@@ -1,7 +1,8 @@
-import Counter from './Counter';
+import EventPractice from './EventPractice';
+import Say from './Say';
 
 const App = () => {
-  return <Counter></Counter>;
+  return <EventPractice></EventPractice>;
 };
 
 export default App;
