@@ -1,12 +1,10 @@
 import { Component } from 'react';
-import ScrollBox from './ScrollBox';
-import IterationSample from './IterationSample';
-
+import SassComponent from './SassComponent';
 class App extends Component {
   render() {
     return (
       <div>
-        <IterationSample />
+        <SassComponent />
       </div>
     );
   }
